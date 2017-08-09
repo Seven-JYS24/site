@@ -1,0 +1,190 @@
+.logisDetails-ad {
+  width: 100%;
+  height: 617px;
+  position: relative;
+  float: left;
+}
+.logisDetails-ad .container {
+  padding-left: 350px!important;
+  min-height: 330px;
+  padding-top: 150px!important;
+  position: relative;
+}
+.logisDetails-ad .container .ad-title {
+  position: absolute;
+  top: 0px;
+  height: 40px;
+  line-height: 40px;
+  width: 150px;
+  color: #fff;
+  font-size: 12px;
+  width: 350px;
+  left: 30px;
+}
+.logisDetails-ad .container .ad-title img {
+  margin-right: 20px;
+}
+.logisDetails-ad .logisDetails-ad-img {
+  width: 100%;
+  height: 617px;
+  position: absolute;
+  top: 0px;
+  z-logisDetails: -1;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top {
+  height: 115px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-img {
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-img img {
+  height: 100%;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main {
+  width: 60%;
+  height: 100%;
+  float: left;
+  padding-left: 15px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main .main-img {
+  width: 100%;
+  height: 30px;
+  display: block;
+  float: left;
+  line-height: 30px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main .main-img img {
+  margin-right: 10px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main .main-xinxi {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  float: left;
+  display: block;
+  font-size: 16px;
+  color: #e7e7e7;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom {
+  height: 140px;
+  padding-top: 50px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom .bottom-pingjia {
+  margin-right: 10px;
+  width: 90px;
+  height: 92px;
+  float: left;
+  border-radius: 5px;
+  background-color: #e7e7e7;
+  text-align: center;
+  padding-top: 25px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom .bottom-pingjia .pingjia-title {
+  font-size: 16px ;
+  color: #c81622 ;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom .bottom-pingjia .pingjia-main {
+  font-size: 14px ;
+  color: #1e1e1e ;
+}
+.logisDetails-ad .logisDetails-ad-right {
+  height: 260px;
+}
+.logisDetails-content {
+  clear: both;
+}
+.logisDetails-content .container .content-title {
+  width: 100%;
+  background-color: #c81622;
+  height: 50px;
+  padding-left: 100px;
+}
+.logisDetails-content .container .content-title .active {
+  background-color: #fff;
+}
+.logisDetails-content .container .content-title .active a {
+  text-decoration: none;
+}
+.logisDetails-content .container .content-title li {
+  height: 40px;
+  background-color: #ffde00;
+  width: 105px;
+  margin-right: 20px;
+  float: left;
+  margin-top: 10px;
+  text-align: center;
+  line-height: 40px;
+}
+.logisDetails-content .container .content-title li a {
+  color: #c81622;
+  font-size: 16px;
+}
+.logisDetails-content .container .content-index {
+ min-height: 300px;
+}
+.logisDetails-content .container .content-index .main-title {
+  height: 30px;
+  background-color: #fff;
+  display: block;
+  font-size: 16px;
+  color: #c81622;
+  line-height: 30px;
+  position: relative;
+  border-bottom: 1px dashed #d2d2d2;
+}
+.logisDetails-content .container .content-index .main-title .fenge {
+  position: absolute;
+  bottom: 0px;
+  background-color: #c81622;
+  height: 2px;
+  width: 100px;
+}
+.logisDetails-content .container .content-index .main-details {
+  height: 260px;
+  border-bottom: 1px dashed #d2d2d2;
+}
+.logisDetails-content .container .content-index .main-details .details-xinxi {
+  height: 160px;
+  border-bottom: 1px dashed #d2d2d2;
+  padding: 10px 0px;
+  font-size: 14px;
+  color: #646464;
+}
+.logisDetails-content .container .content-index .main-details .details-xinxi .xinxi-left {
+  line-height: 20px;
+}
+.logisDetails-content .container .content-index .main-details .details-xinxi .xinxi-right {
+  line-height: 20px;
+}
+.logisDetails-content .container .content-index .main-details .xinxi-footer {
+  text-indent: 2em;
+  padding: 15px 0px;
+}
+.logisDetails-content .container .content-index .main-details .xinxi-footer a {
+  height: 40px;
+  width: 100px;
+  color: #c81622;
+  font-size: 14px;
+}
+.logisDetails-content .container .content-index .main-photo {
+  height: 185px ;
+  padding: 15px 5%;
+}
+.logisDetails-content .container .content-index .main-photo li {
+  width: 18%;
+  margin-right: 2%;
+  float: left;
+  height: 100%;
+  text-align: center;
+}
+.logisDetails-content .container .content-index .main-photo li img {
+  width: 167px;
+  height: 105px;
+  margin-bottom: 10px;
+}
+.logisDetails-content .container .content-index .main-photo li span {
+  font-size: 14px;
+  color: #646464;
+}

@@ -1,0 +1,230 @@
+.index-ad {
+  width: 100%;
+  height: 617px;
+  position: relative;
+  float: left;
+  margin-bottom: 30px;
+  margin-top: -45px;
+}
+.index-ad .container {
+  padding-left: 295px!important;
+  height: 330px;
+  padding-top: 100px!important;
+}
+.index-ad .index-ad-img {
+  width: 100%;
+  height: 617px;
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+.index-ad .index-ad-left {
+  padding-top: 0px;
+  line-height: 50px;
+}
+.index-ad .index-ad-left .left-title {
+  font-size: 42px ;
+  color: #ff9900;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.index-ad .index-ad-left .left-content {
+  color: #c81622;
+  font-size: 58px;
+  font-weight: bold;
+}
+.index-ad .index-ad-left .left-botton {
+  font-size: 18px;
+  font-weight: bold;
+}
+.index-ad .index-ad-left .left-botton .botton-title {
+  color: #ff9900;
+  font-size: 24px;
+}
+.index-ad .index-ad-right {
+  background-color: #fff!important;
+  height: 370px;
+  width : 350px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.index-ad .index-ad-right .ad-right-title {
+  height: 52px;
+  font-size: 22px;
+  color: #FFFFFF;
+  background-color: #c81622 ;
+  text-align: center;
+  line-height: 52px;
+}
+.index-ad .index-ad-right .form-inline .input-group {
+  margin-bottom: 10px;
+}
+.index-ad .index-ad-right .form-inline .input-group .input-style {
+  background-color: #999999!important;
+  color: #FFFFFF;
+  border-color: #e2e2e2!important;
+}
+.index-ad .index-ad-right .form-inline .input-group input {
+  width: 280px;
+  height:50px;
+  border-color: #e2e2e2!important;
+  font-size: 18px;
+  color: #cccccc;
+}
+.index-ad .index-ad-right .form-inline .form-bottom {
+  width: 100%;
+  height: 50px;
+  background-color: #e95506;
+  display: block;
+  text-align: center;
+  font-size: 22px;
+  line-height: 50px;
+  color: #FFFFFF;
+  border:0px;
+}
+.index-ad .index-ad-right .form-inline .form-footer {
+  height: 30px;
+  width: 100%;
+  margin-top: 10px;
+}
+.index-ad .index-ad-right .form-inline .form-footer .footer-registration {
+  float: left;
+  font-size: 14px;
+  color: #666666;
+  width: 50%;
+  height: 30px;
+}
+.index-ad .index-ad-right .form-inline .form-footer .footer-psw {
+  font-size: 14px;
+  color: #ee7d16;
+  width: 50%;
+  height: 30px;
+  margin-right: 0px;
+  display: block;
+  float: left;
+  text-align: right;
+}
+.index-intro-title {
+  height: 80px;
+  font-size: 22px;
+  clear: both;
+}
+.index-intro-title .title-left .title-top {
+  color: #000;
+  font-size: 30px;
+  display: block;
+  float: left;
+  height: 80px;
+  margin-left:10px;
+}
+.index-intro-title .title-left span {
+  font-family: Bodoni Bk BT;
+  border-left: 1px solid #ccc;
+  color: #333;
+  transform: skew(-20deg);
+  font-size: 45px;
+  color: #ccc;
+  margin-left: 20px;
+  padding-left: 10px;
+  float: left;
+  display: block;
+  height: 60px;
+  margin-top: 20px;
+}
+.index-intro-title .title-right {
+  position: relative;
+  height: 80px;
+}
+.index-intro-title .title-right span {
+  font-size: 24px;
+  color: #666666;
+  position: absolute;
+  bottom: 0px;
+  display: block;
+  right: 0px;
+}
+.index-intro-content {
+  background-color: #fff;
+  height: 500px;
+  background-color: #f4f4f4;
+}
+
+.index-intro-content li{
+	float:left;
+	margin: 0px 65px;
+}
+
+.index-intro-content .service{
+	padding-left:0px;
+	display:block;
+	width:100%;
+}
+
+.index-intro-content .service-grid {
+  text-align: center;
+  width:162px;
+}
+.secence .header-grids {
+  position: relative;
+  margin-left:8px;
+}
+.secence .header-grids .header-grid {
+  float: left;
+  height: 385px;
+  text-align: center;
+  width: 25%;
+  position: relative;
+}
+.secence .header-grids .header-grid img {
+  left: 20%;
+  z-index: 100;
+  position: absolute;
+}
+.secence .header-grids .header-grid .grid-content {
+  height: 285px;
+  width: 100%;
+  top: 50px;
+  position: absolute;
+  background-color: #f7f5f5;
+  z-index: 1;
+  border-bottom: 2px solid red;
+}
+.secence .header-grids .header-grid .grid-content h4 {
+  margin-top: 150px;
+}
+.secence .header-grids .header-grid .grid-content .grid-content-btn {
+  font-size: 14px;
+  line-height: 28px;
+  height: 28px;
+  width: 118px;
+  margin: 0 auto;
+  background-color: #d1434c;
+  display: block;
+  border-radius: 10px;
+  color: #fff;
+}
+.friend-link {
+  height: 153px ;
+  background-color: #f0f0f0 ;
+}
+.friend-link .link-title {
+  font-size: 18px;
+  color: #c81622;
+  width: 100%;
+  height: 55px;
+  display: block;
+  line-height: 55px;
+}
+.friend-link ul {
+  width: 100%;
+  height: 20px;
+}
+.friend-link ul li {
+  width: 10%;
+  height: 20px;
+  float: left;
+}
+.friend-link ul li a {
+  font-size: 14px;
+  color: #666666;
+}

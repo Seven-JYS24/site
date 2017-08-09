@@ -1,0 +1,382 @@
+a:hover {
+  text-decoration: none;
+}
+.blacklist-intro-title {
+  height: 100px;
+  font-size: 22px;
+  clear: both;
+}
+.blacklist-intro-title .title-left .title-top {
+  color: #c81622;
+  font-size: 30px;
+  display: block;
+  float: left;
+  height: 80px;
+  padding-top: 15px;
+  margin-top: 20px;
+}
+.blacklist-intro-title .title-left span {
+  border-left: 1px solid #ccc;
+  color: #333;
+  transform: skew(-20deg);
+  font-size: 48px;
+  color: #ccc;
+  margin-left: 20px;
+  padding-left: 10px;
+  float: left;
+  display: block;
+  height: 60px;
+  margin-top: 40px;
+}
+.blacklist-intro-title .title-right {
+  position: relative;
+  height: 100px;
+}
+.blacklist-intro-title .title-right span {
+  font-size: 22px;
+  color: #666666;
+  position: absolute;
+  bottom: 0px;
+  display: block;
+  right: 0px;
+}
+.blacklist {
+  clear: both;
+}
+.blacklist .blacklist-type {
+  height: 70px;
+  padding-top: 14px;
+  background: #ededed;
+}
+.blacklist .blacklist-type .type-top {
+  height: 50px;
+  background-color: #e7e7e7;
+  width: 100%;
+  display: block;
+}
+.blacklist .blacklist-type .type-top .top-left {
+  width: 10%;
+  height: 100%;
+  float: left;
+/*  background-color: #c81622;*/
+  color: #fff;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+}
+.blacklist .blacklist-type .type-top .top-left:hover{
+	color: #c81622;
+}
+.blacklist .blacklist-type .type-top .top-right {
+  width: 11%;
+  height: 100%;
+  color: #666666;
+  font-size: 20px;
+  line-height: 50px;
+  padding-left: 20px;
+  float: left;
+}
+.blacklist .blacklist-type .type-bottom {
+  height: 50px;
+  background-color: #FF9900;
+  width: 300px;
+  display: block;
+}
+.blacklist .blacklist-type .type-bottom .active {
+  color: #c81622!important;
+}
+.blacklist .blacklist-type .type-bottom .bottom-fenge {
+  height: 30px;
+  width: 2px;
+  background-color: #fff;
+  margin-top: 10px;
+  float: left;
+}
+.blacklist .blacklist-type .type-bottom .bottom-btn {
+  height: 100%;
+  width: 98px;
+  color: #fff;
+  float: left;
+  display: block;
+  
+  font-size: 18px;
+  text-align: center;
+  line-height: 50px;
+}
+.blacklist .blacklist-title {
+  display: block;
+  float: left;
+  color: #c81622;
+  font-size: 20px;
+  height: 60px;
+  line-height: 60px;
+}
+.blacklist .form-inline {
+  width: 100%;
+  margin-top: 5px;
+}
+.blacklist .form-inline input {
+  border-color: #959595!important;
+  height: 45px;
+  min-width: 320px!important;
+  color: #999999!important;
+  font-size: 14px;
+}
+.blacklist .form-inline span {
+  background-color: #c81622!important;
+  color: #fff!important;
+  cursor: pointer;
+}
+.blacklist .blacklist-fu-title {
+  font-size: 16px;
+  color: #999999;
+  display: block;
+  margin-top: 15px;
+}
+.blacklist .blacklist-fu-title span {
+  color: #c81622;
+}
+.blacklist .blacklist-content {
+
+  width: 100%;
+  background-color: #f4f4f4;
+}
+.blacklist .blacklist-content .content-img {
+  padding: 20px;
+  height: 175px;
+  position: relative;
+  width: 13%;
+  float: left;
+}
+.blacklist .blacklist-content .content-xinxi {
+  height: 175px;
+  width: 20%;
+  float: left;
+}
+.blacklist .blacklist-content .content-xinxi .name-title {
+  font-size: 16px;
+  color: #333333;
+  margin-top: 50px;
+  display: block;
+
+}
+.blacklist .blacklist-content .content-xinxi .name-number {
+  font-size: 16px;
+  color: #333333;
+  display: block;
+
+}
+.blacklist .blacklist-content .content-btn {
+  width: 13%;
+  float: left;
+}
+.blacklist .blacklist-content .content-btn .btn-fahuo {
+  width: 80px;
+  height: 25px;
+  background-color: #ff9900;
+  color: #fff;
+  display: block;
+  border-radius: 5px;
+  margin-top: 30px;
+    margin-bottom: 10px;
+  line-height: 25px;
+  text-align: center;
+}
+.blacklist .blacklist-content .content-btn .btn-wuliu {
+  width: 80px;
+  height: 25px;
+  background-color: #66cc00;
+  color: #fff;
+  display: block;
+  border-radius: 5px;
+  line-height: 25px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.blacklist .blacklist-content .content-heimingd {
+  width: 20%;
+  float: left;
+  padding-top: 50px;
+}
+.blacklist .blacklist-content .content-heimingd .heimingd-title {
+  font-size: 14px!important;
+  color: #333333!important;
+  font-weight: bold;
+
+  display: block;
+}
+.blacklist .blacklist-content .content-heimingd .heimingd-number {
+  font-size: 12px!important;
+}
+.blacklist .blacklist-content .content-xianqing {
+  height: 175px;
+  width: 20%;
+  float: left;
+  margin-left: 5%;
+  text-align: center;
+}
+.blacklist .blacklist-content .content-xianqing a {
+  height: 40px;
+  width: 140px;
+  line-height: 40px;
+  font-size: 20px;
+  background-color: #c81622;
+  color: #fff;
+  display: block;
+  margin-top: 70px;
+  margin-left: 15%;
+}
+.blacklist .secent {
+  background-color: #FFF;
+}
+.blacklist .blacklist-intro {
+  height: 110px;
+  background-color: #f4f4f4 ;
+
+}
+.blacklist .blacklist-intro span {
+  font-size: 20px;
+  color: #333333;
+  margin-top: 30px;
+  display: block;
+}
+.blacklist-beijing{
+	background: url(../img/banner/hmdbg.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 203px;
+	position: relative;
+}
+.blacklist-beijing p{
+	color: #fff;
+	float: left;
+	position: absolute;
+  top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -75px;
+}
+.blacklist-beijing p span{
+	display: block;
+}
+.blacklist-beijing p .blacklistone{
+	font-size: 50px;
+}
+.blacklist-beijing p .backlistTwo{
+	font-size: 21px;
+}
+.blacklist-container{
+	background: #EDEDED;
+}
+
+.content-title{
+	width: 100%;
+	height: 50px;
+	margin-left: 30px;
+	border-bottom: none;
+}
+.content-title li{
+	margin-right: 10px;
+}
+#listForm .active {
+    display: block;
+}
+.tab-pane{
+	display: none;
+}
+.content-index p{
+	margin: 0;
+	padding: 0 20px;
+}
+.nav > li > a{
+	padding: 9px 0;
+}
+.content-title .active a{
+	color: #c81622!important;
+	border: 1px solid #ededed !important;
+  border-bottom: 2px solid #c81622 !important;
+  background: none !important;
+  font-size: 24px;
+}
+
+
+.blacklist-jianjie{
+	background: #fff;
+	margin-bottom: 8px;
+}
+.blacklist-jianjie-one{
+	height: 240px;
+	width: 270px;
+	float: left;
+	padding: 40px 35px 80px 35px;
+	border-right: 1px dashed #ccc;
+}
+.blacklist-jianjie-one .blacklist-img{
+	width: 220px;
+}
+.blacklist-jianjie-two{
+	float: left;
+	height: 240px;
+	width: 300px;
+	padding: 50px 28px 30px 28px;
+	border-right: 1px dashed #ccc;
+}
+.blacklist-jianjie-two .blackorange{
+	display: inline-block;
+	background: #FF9900;
+	border-radius: 10px;
+	padding: 4px 17px;
+	font-size: 16px;
+	color: #fff;
+	margin-right: 8px;
+	margin-bottom: 14px;
+}
+.blacklist-jianjie-two .blackgreen{
+	display: inline-block;
+	background: #65CB00;
+	border-radius: 10px;
+	padding: 4px 17px;
+	font-size: 16px;
+	color: #fff;
+}
+.blacklist-jianjie-two .blacklist-name-number{
+	display: block;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	margin-bottom: 14px;
+}
+.blacklist-jianjie-three{
+	float: left;
+	height: 240px;
+	width: 360px;
+	padding: 50px;
+	border-right: 1px dashed #ccc;
+}
+.blacklist-jianjie-three .dispatching-area{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 22px;
+}
+
+.blacklist-jianjie-three .black-reason{
+	
+}
+.blacklist-jianjie-four{
+	float: left;
+	height: 240px;
+	width: 180px;
+	padding: 73.5px 43.5px;
+}
+.blacklist-jianjie-four div{
+	border: 4px solid #E8A0A5;
+	background: #D1414B;
+	border-radius: 50%;
+	width: 93px;
+	height: 93px;
+	text-align: center;
+	color: #fff;
+	font-size: 22px;
+	padding-top: 10px;
+	cursor:pointer;
+}

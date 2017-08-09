@@ -1,0 +1,78 @@
+.data-nav {
+  height: 400px;
+  background-color: #f4f4f4;
+  padding: 0px 20px;
+}
+.data-nav .nav-title {
+  height: 55px;
+  line-height: 55px;
+  font-size: 24px;
+  color: #cc0033;
+}
+.data-nav .active {
+  color: #cc0033!important;
+}
+.data-nav .nav-main {
+  height: 250px;
+  border-top: 1px dashed #d2d2d2;
+}
+.data-nav .nav-main a {
+  height: 50px;
+  float: left;
+  width: 100%;
+  margin-bottom: 5px;
+  color: #333333;
+  font-size: 16px;
+  padding: 15px 0px;
+}
+.data-nav .nav-main a img {
+  margin-right: 15px;
+}
+.help .help-member {
+  min-height: 800px;
+}
+.help .help-member .member-title {
+  height: 50px;
+  border-bottom: 2px solid #c81622;
+}
+.help .help-member .member-title span {
+  width: 115px;
+  height: 50px;
+  color: #FFF;
+  background-color: #c81622;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+}
+.help .help-member .member-choice {
+  height: 700px;
+  line-height: 30px;
+  border: 1px solid #d6d3d3;
+  margin-top: 20px;
+}
+.help .help-member .member-choice p {
+  text-indent: 2em;
+  font-size: 14px;
+  color: #333333;
+}
+.help .help-member .member-choice .navbar {
+  border: none!important;
+}
+.help .help-member .member-choice .navbar .navbar-collapse {
+  padding: 0px!important;
+  background-color: #f4f4f4;
+}
+.help .help-member .member-choice .navbar .navbar-collapse .navbar-nav li {
+  border: 1px solid #d6d3d3!important;
+  border-top: none!important;
+}
+.help .help-member .member-choice .navbar .navbar-collapse .navbar-nav .active {
+  background-color: #fff!important;
+  border-bottom: 1px solid #fff!important;
+  border-left: 1px solid #fff!important;
+  border-right: 1px solid #fff!important;
+}
+.help .help-member .member-choice .navbar .navbar-collapse .navbar-nav .active a {
+  color: #3498db!important;
+}

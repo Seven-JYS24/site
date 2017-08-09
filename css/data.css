@@ -1,0 +1,259 @@
+.data-nav {
+  height: 400px;
+  background-color: #f4f4f4;
+  padding: 0px 20px;
+}
+.data-nav .nav-title {
+  height: 55px;
+  line-height: 55px;
+  font-size: 24px;
+  color: #cc0033;
+}
+.data-nav .active {
+  color: #cc0033!important;
+}
+.data-nav .nav-main {
+  height: 250px;
+  border-top: 1px dashed #d2d2d2;
+}
+.data-nav .nav-main a {
+  height: 50px;
+  float: left;
+  width: 100%;
+  margin-bottom: 5px;
+  color: #333333;
+  font-size: 16px;
+  padding: 15px 10px;
+}
+.data-nav .nav-main a img {
+  margin-right: 15px;
+}
+.data-wanshan {
+  min-height: 1000px;
+}
+.data-wanshan .data-main {
+  min-height: 400px;
+}
+.data-wanshan .data-main .main-title {
+  height: 50px;
+  border-bottom: 2px solid #c81622;
+}
+.data-wanshan .data-main .main-title span {
+  width: 115px;
+  height: 50px;
+  color: #FFF;
+  background-color: #c81622;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+}
+.data-wanshan .data-main .main-choice {
+  height: 450px;
+}
+.data-wanshan .data-main .main-choice .choice {
+  height: 215px;
+}
+.data-wanshan .data-main .main-choice .choice .people-img {
+  width: 50%;
+  height: 215px;
+  float: left;
+  text-align: center;
+  padding-top: 50px;
+}
+.data-wanshan .data-main .main-choice .choice .people-img .img-title {
+  display: block;
+  font-size: 16px;
+  color: #333333;
+}
+.data-wanshan .data-main .main-choice .choice .people-input {
+  width: 50%;
+  height: 215px;
+  float: left;
+  position: relative;
+}
+.data-wanshan .data-main .main-choice .choice .people-input .input-type {
+  z-index: -1;
+  margin-top: 110px;
+  width: 100px;
+  height: 30px ;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #f4f4f4;
+  color: #666666;
+  font-size: 14px;
+  position: absolute;
+  top: 0px;
+}
+.data-wanshan .data-main .main-choice .choice .people-input input {
+  margin-top: 110px;
+  width: 100px;
+  height: 30px ;
+  opacity: 0;
+}
+.data-wanshan .data-main .main-choice .choice-yinye {
+  height: 215px;
+}
+.data-wanshan .data-main .main-btn {
+  width: 100%;
+  height: 47px;
+  text-align: center;
+}
+.data-wanshan .data-main .main-btn button {
+  width: 223px;
+  height: 47px;
+  background-color: #3498db ;
+  color: #fefefe;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  font-size: 18px;
+  line-height: 47px;
+}
+.data-message {
+  min-height: 1000px;
+}
+.data-message .message-top {
+  height: 200px;
+  width: 100%;
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+.data-message .message-top .content-img {
+  padding: 20px;
+  height: 175px;
+  position: relative;
+}
+.data-message .message-top .content-img img {
+  height: 120px;
+  width: 120px;
+  border-radius: 120px;
+}
+.data-message .message-top .content-name {
+  height: 175px;
+}
+.data-message .message-top .content-name .name-title {
+  font-size: 24px;
+  color: #c81622;
+  margin-top: 30px;
+  display: block;
+}
+.data-message .message-top .content-name .name-number {
+  height: 30px;
+}
+.data-message .message-top .content-name .name-number .number-title {
+  padding-left: 0px!important;
+  font-size: 16px;
+  color: #000000;
+  line-height: 30px;
+}
+.data-message .message-top .content-name .name-number .number-title .title-A {
+  font-size: 16px;
+  color: #c81622;
+  font-weight: bold;
+}
+.data-message .message-top .content-name .name-number .number-title .title-score {
+  font-size: 16px;
+  color: #c81622;
+}
+.data-message .message-top .content-name .name-xinxi {
+  height: 30px;
+}
+.data-message .message-top .content-name .name-xinxi .xinxi-title {
+  padding-left: 0px!important;
+  font-size: 14px;
+  color: #333333;
+  line-height: 30px;
+}
+.data-message .message-top .content-name .name-time {
+  height: 30px;
+}
+.data-message .message-top .content-name .name-time .time-title {
+  padding-left: 0px!important;
+  font-size: 14px;
+  color: #333333;
+  line-height: 30px;
+}
+.data-message .message-xinxi {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.data-message .message-xinxi .xinxi-title {
+  height: 45px;
+  font-size: 20px;
+  color: #000000;
+  line-height: 45px;
+}
+.data-message .message-xinxi .xinxi-content {
+  min-height: 25px;
+  border: 1px solid #cccccc;
+  font-size: 16px;
+  color: #333333;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+.data-message .message-xinxi .xinxi-content span {
+  display: block;
+  float: left;
+  height: 40px;
+  width: 100%;
+}
+.data-message .main-photo {
+  padding: 0px!important;
+}
+.data-message .main-photo li {
+  width: 18%;
+  margin-right: 2%;
+  float: left;
+  height: 100%;
+  text-align: center;
+}
+.data-message .main-photo li img {
+  width: 167px;
+  height: 105px;
+  margin-bottom: 10px;
+}
+.data-message .main-photo li span {
+  font-size: 14px;
+  color: #646464;
+}
+.data-ChanPsw .data-main {
+  min-height: 700px;
+}
+.data-ChanPsw .data-main .main-title {
+  height: 50px;
+  border-bottom: 2px solid #c81622;
+}
+.data-ChanPsw .data-main .main-title span {
+  width: 115px;
+  height: 50px;
+  color: #FFF;
+  background-color: #c81622;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+}
+.data-ChanPsw .data-main .main-choice {
+  height: 350px;
+  padding: 30px 10%;
+}
+.data-ChanPsw .data-main .main-btn {
+  width: 100%;
+  height: 47px;
+  text-align: center;
+  margin-top: 30px;
+}
+.data-ChanPsw .data-main .main-btn a {
+  width: 170px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 10px;
+  background-color: #3498db ;
+  color: #fefefe;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  font-size: 18px;
+}

@@ -1,0 +1,343 @@
+.clear{clear: both;}
+.bgImg{
+	width: 100%;
+	height: 235px;
+	background-image: url(../img/banner/qybg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.header-footer{
+  background-color: rgba(255,255,255,0.1)!important;
+}
+.header-footer-left{
+	color: #fff;
+}
+.drivers{
+	padding: 30px 0 27px;
+}
+.driHead{
+	margin-left: 40px;
+	width: 142px;
+	height: 142px;
+	border-radius: 50%;
+	background-image: url(http://121.196.196.134:8080/creditStandard/2017/07/01/73266496ee54e77367054cecd9206e65.jpg);
+	background-size: 100% 100%;
+	background-repeat: center center;
+}
+.driDatail{
+	margin-left: 67px;
+	padding-top: 15px;
+	color: #fff!important;
+	font-size: 17px!important;
+}
+.driDatail li{
+	margin-top: 5px;
+}
+.driDatail li:nth-child(1){
+	margin-top: 0;
+}
+.driAward{
+	padding-top: 25px;
+}
+.driAward .award{
+	float: left;
+	margin-left: 20px;
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	background-color: #cd8801;
+	color: #fff;
+	text-align: center;
+}
+.driAward .award:nth-child(1){
+	margin-left: 67px;
+}
+.driAward .award p{
+	margin-top: 20px;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+.driAward .award .awardNum{
+	font-size: 24px;
+}
+.iphone{
+	width: 175px;
+	height: 60px;
+	background-color: #c81622;
+	border-radius: 8px;
+	color: #fff;
+	position: fixed;
+	top: 220px;
+	right: 0;
+	text-align: center;
+}
+.iphone p{
+	font-size: 12px;
+	padding-top: 10px;
+	margin-bottom: 0px;
+}
+.iphone div{
+	font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logisDetails-ad {
+  width: 100%;
+  height: 617px;
+  position: relative;
+  float: left;
+}
+.logisDetails-ad .container {
+  padding-left: 350px!important;
+  min-height: 330px;
+  padding-top: 150px!important;
+  position: relative;
+}
+.logisDetails-ad .container .ad-title {
+  position: absolute;
+  top: 0px;
+  height: 40px;
+  line-height: 40px;
+  width: 150px;
+  color: #fff;
+  font-size: 12px;
+  width: 350px;
+  left: 30px;
+}
+.logisDetails-ad .container .ad-title img {
+  margin-right: 20px;
+}
+.logisDetails-ad .logisDetails-ad-img {
+  width: 100%;
+  height: 617px;
+  position: absolute;
+  top: 0px;
+  z-logisDetails: -1;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top {
+  height: 115px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-img {
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-img img {
+  height: 100%;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main {
+  width: 60%;
+  height: 100%;
+  float: left;
+  padding-left: 15px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main .main-img {
+  width: 100%;
+  height: 30px;
+  display: block;
+  float: left;
+  line-height: 30px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main .main-img img {
+  margin-right: 10px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-top .top-main .main-xinxi {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  float: left;
+  display: block;
+  font-size: 16px;
+  color: #e7e7e7;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom {
+  height: 140px;
+  padding-top: 50px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom .bottom-pingjia {
+  margin-right: 10px;
+  width: 90px;
+  height: 92px;
+  float: left;
+  border-radius: 5px;
+  background-color: #e7e7e7;
+  text-align: center;
+  padding-top: 25px;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom .bottom-pingjia .pingjia-title {
+  font-size: 16px ;
+  color: #c81622 ;
+}
+.logisDetails-ad .logisDetails-ad-left .left-bottom .bottom-pingjia .pingjia-main {
+  font-size: 14px ;
+  color: #1e1e1e ;
+}
+.logisDetails-ad .logisDetails-ad-right {
+  height: 260px;
+}
+.logisDetails-content {
+  clear: both;
+}
+.logisDetails-content .container .content-title {
+  width: 100%;
+  height: 50px;
+  margin-left: 30px;
+  border-bottom: none;
+  margin-top: 26px;
+}
+.logisDetails-content .container .content-title .active {
+  background-color: #fff;
+}
+.logisDetails-content .container .content-title .active a {
+  color: #c81622!important;
+  border-bottom: 2px solid #c81622;
+}
+.logisDetails-content .container .content-title li {
+  font-size: 24px;
+  height: 50px;
+  float: left;
+  text-align: center;
+  line-height: 50px;
+}
+.logisDetails-content .container .content-title li a {
+  border: none;
+	color: #333;
+}
+
+
+
+
+
+
+.content-index .dri-basic{
+	width: 100%;
+	height: 50px;
+	background-color: #dddddd;	
+	position: relative;
+	margin-bottom: 50px;
+}
+.content-index .dri-basic .main-tit{
+	font-size: 24px;
+	color: #c81622;
+	line-height: 50px;
+	padding-left: 73px;
+}
+.dri-basic .titleA{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+}
+.content-index .basic{
+	color: #666666;
+	font-size: 17px;
+	padding: 0 0 25px;
+}
+.content-index .basic ul li{
+	margin-top: 15px;
+}
+.content-index .basic ul li:nth-child(1){
+	margin-top: 0;
+}
+.content-index .his-table{
+	margin-bottom: 50px;
+}
+.content-index .his-table table{
+	text-align: center;
+	width: 900px;
+	height: 340px;
+	font-size: 21px;
+	color: #666;
+}
+.content-index .main-photo li{
+	margin-top: 0px;
+}
+
+
+.tab-content .tab-pane{
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+.logisDetails-content .container .content-index .main-title {
+  height: 30px;
+  background-color: #fff;
+  display: block;
+  font-size: 16px;
+  color: #c81622;
+  line-height: 30px;
+  position: relative;
+  border-bottom: 1px dashed #d2d2d2;
+}
+.logisDetails-content .container .content-index .main-title .fenge {
+  position: absolute;
+  bottom: 0px;
+  background-color: #c81622;
+  height: 2px;
+  width: 100px;
+}
+.logisDetails-content .container .content-index .main-details {
+  height: 260px;
+  border-bottom: 1px dashed #d2d2d2;
+}
+.logisDetails-content .container .content-index .main-details .details-xinxi {
+  height: 160px;
+  border-bottom: 1px dashed #d2d2d2;
+  padding: 10px 0px;
+  font-size: 14px;
+  color: #646464;
+}
+.logisDetails-content .container .content-index .main-details .details-xinxi .xinxi-left {
+  line-height: 20px;
+}
+.logisDetails-content .container .content-index .main-details .details-xinxi .xinxi-right {
+  line-height: 20px;
+}
+.logisDetails-content .container .content-index .main-details .xinxi-footer {
+  text-indent: 2em;
+  padding: 15px 0px;
+}
+.logisDetails-content .container .content-index .main-details .xinxi-footer a {
+  height: 40px;
+  width: 100px;
+  color: #c81622;
+  font-size: 14px;
+}
+.logisDetails-content .container .content-index .main-photo {
+  height: 185px ;
+  padding: 15px 5%;
+}
+.logisDetails-content .container .content-index .main-photo li {
+  width: 18%;
+  margin-right: 2%;
+  float: left;
+  height: 100%;
+  text-align: center;
+}
+.logisDetails-content .container .content-index .main-photo li img {
+  width: 167px;
+  height: 105px;
+  margin-bottom: 10px;
+}
+.logisDetails-content .container .content-index .main-photo li span {
+  font-size: 14px;
+  color: #646464;
+}

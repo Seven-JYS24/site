@@ -1,0 +1,140 @@
+.clear{
+	clear: both;
+}
+.bgImg{
+	width: 100%;
+	height: 235px;
+	background-image:url(../img/banner/hmdbg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.header-footer{
+  background-color: rgba(255,255,255,0.1)!important;
+}
+.header-footer-left{
+	color: #fff;
+}
+.backPeople{
+	padding: 30px 0 27px;
+}
+.peoHead{
+	margin-left: 40px;
+	width: 142px;
+	height: 142px;
+	border-radius: 50%;
+	background-image: url(../img/search-people.png);
+	background-size: 100% 100%;
+	background-repeat: center center;
+}
+.backPeople ul{
+	margin: 10px 0 0 67px;
+}
+.peoDatail{
+	color: #fff!important;
+	font-size: 17px!important;
+}
+.peoDatail a{
+	width: 78px;
+	height: 27px;
+	display: inline-block;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 27px;
+	color: #fff;
+}
+.peoDatail .fahuo{
+	background-color: #ff9900;
+}
+.peoDatail .banche{
+	background-color: #66cc00;
+	margin-left: 8px;
+}
+.peoDatail li:nth-child(1){
+	margin-bottom: 10px;
+}
+.iphone{
+	width: 175px;
+	height: 60px;
+	background-color: #c81622;
+	border-radius: 8px;
+	color: #fff;
+	position: fixed;
+	top: 220px;
+	right: 0;
+	text-align: center;
+}
+.iphone p{
+	font-size: 12px;
+	padding-top: 10px;
+	margin-bottom: 0px;
+}
+.iphone div{
+	font-size: 17px;
+}
+.blackDetails-intro-title{
+	padding: 26px 0 18px 20%;
+}
+.blackDetails-intro-title .title-top{
+	font-size: 28px;
+	color: #c81622;
+}
+.blackDetail-main {
+  width: 100%;
+  clear: both;
+}
+.blackDetail-main .title {
+	width: 100%;
+  height: 50px;
+  background-color: #dddddd;
+  position: relative;
+}
+.blackDetail-main .title .title-name {
+  font-size: 24px;
+  color: #c81622;
+  line-height: 50px;
+  padding-left: 73px;
+}
+.blackDetail-main .title .titleA{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+}
+.blackDetail-main .blackDetail-basic{
+	color: #666;
+	font-size: 16px;
+	padding: 35px 20px;
+}
+.blackDetail-main .blackDetail-basic ul li{
+	padding-top: 15px;
+}
+.blackDetail-main .blackDetail-basic ul li:nth-child(1){
+	padding-top: 0px;
+}
+.blackDetail-main .blackDetail-basic p{
+	line-height: 30px;
+	padding-left: 20px;
+}
+.blackDetail-footer {
+  padding: 33px 10%;
+  height: 140px;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.blackDetail-footer img {
+  display: block;
+  float: left;
+  margin-right: 20px;
+}
+.blackDetail-footer .footer-title {
+  font-size: 22px;
+  color: #c81622;
+}
+.blackDetail-footer .footer-title .title-number {
+  font-weight: bold;
+  font-size: 33px;
+}
+
+
+

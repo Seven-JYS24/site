@@ -1,0 +1,119 @@
+.help {
+  clear: both;
+}
+.help .help-type {
+  padding-top: 14px;
+}
+.help .help-type .type-top {
+  margin-top: 20px;
+  height: 50px;
+  background-color: #e7e7e7;
+  width: 100%;
+  display: block;
+}
+.help .help-type .type-top .top-title {
+  width: 10%;
+  height: 100%;
+  float: left;
+  background-color: #c81622;
+  color: #fff;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+}
+.help .help-type .type-title {
+  height: 60px;
+  line-height: 60px;
+  font-size: 16px;
+  color: #c81622;
+  width: 100%;
+}
+.help form {
+  min-height: 700px;
+  height: 40px;
+}
+.help form .radio {
+  
+  margin-right: 15px;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #646464;
+  font-size: 16px;
+  display: initial!important;
+}
+.help form .radio input {
+  width: 18px;
+  height: 18px;
+}
+.help form .form-content {
+  padding-top: 20px;
+  padding-left: 20px;
+  height: 530px;
+  margin-top: 20px;
+  border-top: 1px solid #d2d2d2;
+  border-bottom: 1px solid #d2d2d2;
+}
+.help form .form-content .content-title {
+  font-size: 14px;
+  color: #646464;
+  display: block;
+}
+.help form .form-content textarea {
+  width: 80%;
+  border: 1px solid #d2d2d2;
+  overflow: hidden;
+  resize: none;
+  height: 300px;
+  margin-top: 15px;
+}
+.help form .form-content .content-type {
+  width: 100%;
+  height: 60px;
+}
+.help form .form-content .content-type .type-title {
+  display: block;
+  float: left;
+  font-size: 14px;
+  color: #646464;
+  margin-left: 60px;
+  width: 100px;
+}
+.help form .form-content .content-type .type-choice {
+  line-height: 60px;
+  height: 100%;
+  width: 150px;
+  display: block;
+  float: left;
+    color: #646464;
+  font-size: 16px;
+}
+.help form .form-content .content-type .type-choice input {
+  margin-top: 22px;
+
+}
+.help form .form-content .content-phone {
+  width: 100%;
+  height: 60px;
+  padding-left: 60px;
+  position: relative;
+}
+.help form .form-content .content-phone .phone-title {
+  color: #646464;
+  font-size: 14px;
+}
+.help form .form-content .content-phone input {
+  height: 30px;
+}
+.help form .form-content .content-phone .content-btn {
+  position: absolute;
+  width: 180px;
+  display: block;
+  height: 30px;
+  line-height: 30px;
+  background-color: #c81622;
+  color: #fff;
+  text-align: center;
+  left: 350px;
+  top: 0px;
+}
